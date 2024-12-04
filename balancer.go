@@ -4,7 +4,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/Shopify/sarama"
+	"github.com/signmem/sarama"
 )
 
 // NotificationType defines the type of notification
